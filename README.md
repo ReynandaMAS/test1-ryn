@@ -18,3 +18,4 @@ Follow these instructions to set up and run the project on your local machine.
 ### 2. Running Unit Test
 
 `npm test`
+😊❤✔
